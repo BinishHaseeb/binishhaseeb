@@ -66,6 +66,6 @@ B.E in Telecommunications Engineering
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Binish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Binish Haseeb&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Binish's GitHub stats" />
 </p>
 
