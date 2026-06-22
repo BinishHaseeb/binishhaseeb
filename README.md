@@ -5,7 +5,7 @@
 
 ## 🔧 What I do
 
-I'm an SRE at **1LINK (Pvt) Limited** — one of Pakistan's core fintech infrastructure companies — where I keep critical systems running at **99.9% uptime** across 100+ servers.
+I'm an SRE at one of Pakistan's core fintech infrastructure companies where I keep critical systems running at **99.9% uptime** across 100+ servers.
 
 My day-to-day spans:
 - **Infrastructure management** — VMware vSphere, HPE Synergy, Azure, Active Directory
