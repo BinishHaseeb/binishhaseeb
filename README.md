@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Binish Haseeb 👋</h1>
-<h3 align="center">Site Reliability Engineer · Technical Research Writer · Blockchain & IoT Researcher</h3>
+<h3 align="center">Site Reliability Engineer · Technical Research Writer · Published Researcher</h3>
 
 <br/>
 
